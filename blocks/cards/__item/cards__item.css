@@ -1,0 +1,9 @@
+.cards__item {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 12px;
+    background-color: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(24px);
+    border-radius: 16px;
+}

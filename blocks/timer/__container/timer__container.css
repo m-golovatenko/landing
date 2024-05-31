@@ -1,0 +1,10 @@
+.timer__container {
+    display: flex;
+    flex-direction: column;
+    padding: 56px 32px;
+    border-radius: 32px;
+    background-color: rgba(255,255,255, 0.08);
+    width: max-content;
+    border: 1px solid #4d4d4d;
+    backdrop-filter: blur(24px);
+}

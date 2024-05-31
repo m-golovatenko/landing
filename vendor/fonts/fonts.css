@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Rimouski';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('./rimouskisb.woff2') format('woff2'), url('./rimouskisb.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Mono';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('./SFMono-Bold.woff2') format('woff2'), url('./SFMono-Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'AbadiMT';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./AbadiMT.woff2') format('woff2'), url('./AbadiMT.woff') format('woff');
+}

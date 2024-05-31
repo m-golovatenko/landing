@@ -1,0 +1,9 @@
+.timer__time {
+    font-family: "SF Mono", Arial, sans-serif;
+    font-size: 180px;
+    padding: 0;
+    margin: 0;
+    color: white;
+    display: flex;
+    gap: 24px;
+}

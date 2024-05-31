@@ -1,0 +1,10 @@
+.timer__button {
+    background-color: #22CE88;
+    padding: 24px 32px;
+    border-radius: 20px;
+    color: black;
+    font-size: 28px;
+    line-height: 85%;
+    font-family: 'AbadiMT', Arial, sans-serif;
+    border: none;
+}
