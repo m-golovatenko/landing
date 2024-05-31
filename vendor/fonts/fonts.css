@@ -18,7 +18,7 @@
 @font-face {
     font-family: 'AbadiMT';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 700;
     font-display: swap;
-    src: url('./AbadiMT.woff2') format('woff2'), url('./AbadiMT.woff') format('woff');
+    src: url('./AbadiMT-Bold.woff2') format('woff2'), url('./AbadiMT-Bold.woff') format('woff');
 }
