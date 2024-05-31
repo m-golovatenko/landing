@@ -5,8 +5,13 @@
     color: black;
     border: none;
     display: flex;
-    justify-content: center;
-    position: relative;
+    justify-content: space-between;
+    align-items: center;
+
+    div {
+        width: 24px;
+        height: 24px;
+    }
 
     p {
         font-size: 24px;
@@ -34,9 +39,6 @@
     }
 
     img {
-        position: absolute;
-        right: 14px;
-        bottom: 14px;
         width: 24px;
         height: 24px;
     }
@@ -62,8 +64,11 @@
         }
 
         img {
-            right: 6px;
-            bottom: 6px;
+            width: 20px;
+            height: 20px;
+        }
+
+        div {
             width: 20px;
             height: 20px;
         }

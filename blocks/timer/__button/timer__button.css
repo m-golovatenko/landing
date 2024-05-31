@@ -55,4 +55,10 @@
     }
 }
 
+@media screen and (max-width: 767px) {
+    .timer__button {
+        max-width: 212px;
+    }
+}
+
 
