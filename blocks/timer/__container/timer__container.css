@@ -6,6 +6,7 @@
     background-color: rgba(255,255,255, 0.08);
     width: max-content;
     border: 1px solid #4d4d4d;
+    -webkit-backdrop-filter: blur(24px);
     backdrop-filter: blur(24px);
 }
 
