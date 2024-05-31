@@ -23,6 +23,7 @@
         position: relative;
         transition: all 0.3s ease-in-out;
         width: max-content;
+        text-transform: uppercase;
     }
 
     p:before {

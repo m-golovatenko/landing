@@ -16,6 +16,7 @@
         transition: all 0.3s ease-in-out;
         padding: 0;
         width: max-content;
+        text-transform: uppercase;
     }
 
     p:before {
