@@ -3,4 +3,18 @@
     width: 284px;
     height: 292px;
     display: block;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 1439px) {
+    .cards__img {
+        width: 150px;
+        height: 132px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cards__img {
+        width: 140px;
+    }
 }

@@ -6,4 +6,20 @@
     color: white;
     display: flex;
     gap: 24px;
+    line-height: 180px;
+}
+
+@media screen and (max-width: 1439px) {
+    .timer__time {
+        font-size: 80px;
+        gap: 8px;
+        line-height: 80px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .timer__time {
+        font-size: 48px;
+        line-height: 48px;
+    }
 }

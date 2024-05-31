@@ -5,3 +5,18 @@
     max-width: 1040px;
     margin: 0;
 }
+
+@media screen and (max-width: 1439px) {
+    .header__title {
+        font-size: 48px;
+        line-height: 130%;
+        max-width: 664px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__title {
+        font-size: 32px;
+        max-width: 100%;
+    }
+}

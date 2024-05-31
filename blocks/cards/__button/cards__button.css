@@ -50,3 +50,22 @@
         transform: scaleX(1);
     }
 }
+
+@media screen and (max-width: 1439px) {
+    .cards__button {
+        padding: 9px 12px;
+        border-radius: 8px;
+
+        p {
+            font-size: 18px;
+            line-height: 85%;
+        }
+
+        img {
+            right: 6px;
+            bottom: 6px;
+            width: 20px;
+            height: 20px;
+        }
+    }
+}

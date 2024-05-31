@@ -7,3 +7,11 @@
     backdrop-filter: blur(24px);
     border-radius: 16px;
 }
+
+@media screen and (max-width: 1439px) {
+    .cards__item {
+        gap: 8px;
+        padding: 8px;
+        border-radius: 12px;
+    }
+}

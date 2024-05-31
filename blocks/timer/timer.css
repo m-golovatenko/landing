@@ -6,4 +6,19 @@
     gap: 48px;
     flex-direction: column;
     align-items: center;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1439px) {
+    .timer {
+        width: 100%;
+        padding: 0 40px 40px 40px;
+        gap: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .timer {
+        padding: 0 20px 20px 20px;
+    }
 }

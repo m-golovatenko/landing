@@ -7,3 +7,16 @@
     text-align: center;
     font-family: 'Rimouski', Arial, serif;
 }
+
+@media screen and (max-width: 1439px) {
+    .header {
+        padding: 40px;
+        gap: 40px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header {
+        padding: 40px 20px;
+    }
+}
